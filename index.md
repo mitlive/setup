@@ -13,7 +13,7 @@ Syntax highlighted code block
 
 # Header 1
 
-[Image](https://github.com/mitlive/setup/blob/master/src/img/mcsetup.PNG)
+![Image](https://github.com/mitlive/setup/blob/master/src/img/mcsetup.PNG)
 
 
 
