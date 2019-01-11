@@ -19,5 +19,11 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+Test1
+![Image of microcontroller setup](https://github.com/mitlive/setup/blob/master/src/img/mcsetup.PNG)
+
+
+Test
+![Image of microcontroller setup](https://github.com/mitlive/setup/blob/master/src/img/mcsetup.PNG)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
