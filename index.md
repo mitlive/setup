@@ -1,29 +1,12 @@
-## How to setup
+## Setup
 
-You can use the [editor on GitHub](https://github.com/mitlive/setup/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Setup for the proect
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Hardware Diagram
 
-### Markdown
+![Image of proeject setup](https://github.com/mitlive/setup/blob/master/src/img/msconfig1.PNG)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
+### Microcontroller
 
 ![Image of microcontroller setup](https://github.com/mitlive/setup/blob/master/src/img/mcsetup.PNG)
-
-
-
-[Link](url) and ![Image](src)
-```
-Test1
-![Image of microcontroller setup](https://github.com/mitlive/setup/blob/master/src/img/mcsetup.PNG)
-
-
-Test
-![Image of microcontroller setup](https://github.com/mitlive/setup/blob/master/src/img/mcsetup.PNG)
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
