@@ -1,6 +1,5 @@
 ## Setup
-
-Setup for the proect
+Setup for the project
 
 ### Hardware Diagram
 
